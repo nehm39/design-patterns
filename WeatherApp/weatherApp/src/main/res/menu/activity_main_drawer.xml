@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/your_weather"
+            android:title="Your weather" />
+        <item
+            android:id="@+id/find_weather"
+            android:title="Find weather" />
+        <item
+            android:id="@+id/forecast"
+            android:title="Forecast" />
+    </group>
+
+</menu>
